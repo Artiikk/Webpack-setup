@@ -10,6 +10,7 @@
   5. [ESLintPlugin](https://www.npmjs.com/package/eslint-webpack-plugin)
   6. [OptimizeCssAssetPlugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
   7. [TerserWebpackPlugin](https://webpack.js.org/plugins/terser-webpack-plugin/)
+  
 2.Loaders
   1. [css-loader](https://webpack.js.org/loaders/css-loader/)
   2. [sass-loader](https://webpack.js.org/loaders/sass-loader/)
